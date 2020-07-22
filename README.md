@@ -1,1 +1,3 @@
-hellow world!
+# kakao-clone
+
+Kakao Desktop App Clone
